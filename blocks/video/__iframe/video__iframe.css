@@ -1,7 +1,5 @@
 .video__iframe {
     border: 0;
-}
-
-.video__iframe:first-child {
-margin-right: 20px;
+    width: 513px;
+    height: 316px;
 }
